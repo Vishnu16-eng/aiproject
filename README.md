@@ -1,1 +1,1 @@
-# aiproject
+# EDA project
